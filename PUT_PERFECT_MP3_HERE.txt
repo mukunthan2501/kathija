@@ -1,4 +1,0 @@
-Place your "perfect.mp3" file in this folder.
-
-The audio player in index.html will automatically detect it.
-Rename your file exactly: perfect.mp3
